@@ -1,10 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to my SSG Demo Homepage
+
+Hi, I'm Kat trying to be a web developer.
 
 You can use the [editor on GitHub](https://github.com/ladykatsmith/SSG-demo/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Kat SSG Demo Page
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
